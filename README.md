@@ -21,7 +21,7 @@ MLflow is an open source platform to manage the ML lifecycle, including experime
 
 These components have different use cases and these can be used with any other component of MLFlow as well as can be done alone.
 
-* [**MLflow Tracking**](#https://mlflow.org/docs/latest/tracking.html)
+* [MLflow Tracking](https://mlflow.org/docs/latest/tracking.html)
 
 The MLflow Tracking component is an API and UI for logging parameters, code versions, metrics, and output files when running your machine learning code and for later visualizing the results. MLflow Tracking lets you log and query experiments using Python, REST, R API, and Java API APIs.
 
