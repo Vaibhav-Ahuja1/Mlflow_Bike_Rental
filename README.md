@@ -15,9 +15,9 @@ MLflow is an open source platform to manage the ML lifecycle, including experime
 
 ![ML Flow components](https://user-images.githubusercontent.com/123439845/230709253-60eab72c-99ae-436b-ac1f-4a490d33e5d3.png)
 
-In this project we have taken 10 runs as an , these 10 runs equals to 10 iteration of the model with different hyperparameters.
+In this project we have taken `learning rate:[0.1, 0.05, 0.01]`, and `max depth: [4,5,6]` as **Hyper-Parameters** , these 3 x 3 hyper-parameter set will generate 9 runs which are a sort of equal to 9 iterations of the model.
 
-These iteration will provide 10 different models with different accuracy and you can choose the best one among them.
+These iteration will provide 9 different models with different accuracy and you can choose the best one among them and apply it into the ml workflow.
 
 
 
