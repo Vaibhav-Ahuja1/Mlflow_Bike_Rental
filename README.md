@@ -25,13 +25,16 @@ These components have different use cases and these can be used with any other c
 
 The MLflow Tracking component is an API and UI for logging parameters, code versions, metrics, and output files when running your machine learning code and for later visualizing the results. MLflow Tracking lets you log and query experiments using Python, REST, R API, and Java API APIs.
 
-* ###  **MLflow Project**
+* [MLflow Project](https://mlflow.org/docs/latest/projects.html)
+
 An MLflow Project is a format for packaging data science code in a reusable and reproducible way, based primarily on conventions. In addition, the Projects component includes an API and command-line tools for running projects, making it possible to chain together projects into workflows.
 
-* ###  **MLflow Models**
+* [MLflow Models](https://mlflow.org/docs/latest/models.html)
+
 An MLflow Model is a standard format for packaging machine learning models that can be used in a variety of downstream tools—for example, real-time serving through a REST API or batch inference on Apache Spark. The format defines a convention that lets you save a model in different “flavors” that can be understood by different downstream tools.
 
-* ### **MLflow model Registry**
+* [MLflow model Registry](https://mlflow.org/docs/latest/model-registry.html)
+
 The MLflow Model Registry component is a centralized model store, set of APIs, and UI, to collaboratively manage the full lifecycle of an MLflow Model. It provides model lineage (which MLflow experiment and run produced the model), model versioning, stage transitions (for example from staging to production), and annotations.
 
 
