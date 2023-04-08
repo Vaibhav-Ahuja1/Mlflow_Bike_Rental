@@ -21,10 +21,10 @@ MLflow is an open source platform to manage the ML lifecycle, including experime
 
 These components have different use cases and these can be used with any other component of MLFlow as well as can be done alone.
 
-### * **MLflow Tracking** 
+* ###  **MLflow Tracking** 
 
 
-### * **MLflow Project**
+* ###  **MLflow Project**
 
 
 ### * **MLflow Model Packaging**
