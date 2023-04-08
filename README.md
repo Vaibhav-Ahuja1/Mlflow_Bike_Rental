@@ -15,6 +15,10 @@ MLflow is an open source platform to manage the ML lifecycle, including experime
 
 ![ML Flow components](https://user-images.githubusercontent.com/123439845/230709253-60eab72c-99ae-436b-ac1f-4a490d33e5d3.png)
 
+In this project we have taken 10 runs, these 10 runs equals to 10 iteration of the model with different hyperparameters.
+These iteration will provide 10 different models with different accuracy and you can choose the best one among them.
+
+
 
 
 
