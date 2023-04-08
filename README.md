@@ -13,6 +13,7 @@ Every metrics is logged in MLflow. Mlflow also stores charts , artifacts , model
 
 MLflow is an open source platform to manage the ML lifecycle, including experimentation, reproducibility, deployment, and a central model registry. MLflow currently offers four components
 
+![mlflow_components](https://user-images.githubusercontent.com/123439845/230708850-557fd064-1a66-4f14-bdfd-111c9999b518.png)
 
 
 
