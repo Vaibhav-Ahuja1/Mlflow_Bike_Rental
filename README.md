@@ -1,5 +1,5 @@
 # Mlflow_Bike_Rental
-
+***
 *Whole code is comprised in ipynb file*
 
 * This is an ML Model predictig the No. of bikes that will be rented per hour depending on various conditions.
@@ -15,6 +15,7 @@ Every metrics is logged in MLflow. Mlflow also stores charts , artifacts , model
 # MLFlow
 <img width="400" alt="MLflow-logo" src="https://user-images.githubusercontent.com/123439845/230708796-1c4562ed-ade0-4459-b2d3-c72f971c5834.png">
 
+***
 MLflow is an open source platform to manage the ML lifecycle, including experimentation, reproducibility, deployment, and a central model registry. MLflow currently offers four components
 
 ![ML Flow components](https://user-images.githubusercontent.com/123439845/230709253-60eab72c-99ae-436b-ac1f-4a490d33e5d3.png)
@@ -36,7 +37,7 @@ An MLflow Model is a standard format for packaging machine learning models that 
 * [MLflow model Registry](https://mlflow.org/docs/latest/model-registry.html)
 
 The MLflow Model Registry component is a centralized model store, set of APIs, and UI, to collaboratively manage the full lifecycle of an MLflow Model. It provides model lineage (which MLflow experiment and run produced the model), model versioning, stage transitions (for example from staging to production), and annotations.
-
+***
 
 In this project we have taken `learning rate:[0.1, 0.05, 0.01]`, and `max depth: [4,5,6]` as **Hyper-Parameters** , these *3 x 3 hyper-parameter* set will generate *9 runs which are a sort of equal to 9 iterations of the model*.
 
