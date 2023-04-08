@@ -1,6 +1,6 @@
 # Mlflow_Bike_Rental
 
-Whole code is comprised in ipynb file.
+* Whole code is comprised in ipynb file. *
 
 This is an ML Prediction Model. The model provides live prediction and not batch prediction.
 
